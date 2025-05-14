@@ -1,7 +1,7 @@
 # Brand vs. Performance: Predicting Customer Conversion
 This project studies the razor-thin line between the performance marketing and the brand-building initiatives with the help of data mining, predictive modeling and exploratory analysis.
 
-# Project Objectives
+# 📊 Project Objectives
   - Explore the correlation between performance marketing metrics and the conversion engagement.
 
   - Explore brand storytelling and non-performance indicators to customer loyalty and long-term value.
